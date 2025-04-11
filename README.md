@@ -11,12 +11,6 @@ This technique is especially useful when you want to navigate from services, bac
 - Clean architecture-friendly
 - Works great with push notifications and async events
 
-## 📸 Screenshots
-
-| Home Screen | Second Screen |
-|-------------|---------------|
-| ![Home](screenshots/home.png) | ![Second](screenshots/second.png) |
-
 ## 🧠 Key Concepts
 
 - `GlobalKey<NavigatorState>` provides global access to the Navigator.
